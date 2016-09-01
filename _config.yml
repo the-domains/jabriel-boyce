@@ -1,16 +1,16 @@
 layout_spectrum: 0.7413562415167689
-typography_spectrum: 0.957979012047872
+typography_spectrum: 0.9322087748441845
 color:
-  brandStrength: 0.8400198749732226
-  lightness: 0.6230463415849954
-  saturation: 0.4911491081584245
-  rhythmicContrast: 0.3290312478784472
+  brandStrength: 0.7992064140271395
+  lightness: 0.7303456475492567
+  saturation: 0.0953946162480861
+  rhythmicContrast: 0.9508423360530287
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Jabriel Boyce
 title: Jabriel Shore
 description: Storyteller
