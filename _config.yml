@@ -1,4 +1,3 @@
-layout_spectrum: 0.7413562415167689
 typography_spectrum: 0.7429048561025411
 color:
   brandStrength: 0.9780277826357633
@@ -11,5 +10,6 @@ color:
     - '#FFFCC4'
     - '#F0EDBB'
     - '#FF3800'
+layout_spectrum: 0.7413562415167689
 name: Jabriel Boyce
-title: from the desk of Jabriel Shore
+title: Jabriel Shore
