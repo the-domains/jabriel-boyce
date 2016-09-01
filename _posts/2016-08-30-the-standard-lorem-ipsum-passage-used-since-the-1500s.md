@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T01:18:09.027Z'
+datePublished: '2016-08-30T01:20:34.191Z'
 sourcePath: _posts/2016-08-30-the-standard-lorem-ipsum-passage-used-since-the-1500s.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T01:18:08.801Z'
+dateModified: '2016-08-30T01:20:33.878Z'
 title: 'The standard Lorem Ipsum passage, used since the 1500s'
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5266d8c8-c876-452f-9860-4fa2483095a2.jpg)
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=40.5507&amp;longitude=14.2426&amp;zoom=14&amp;address=Capri%2C%20Napoli%2C%20Italy" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=40.5507&amp;longitude=14.2426&amp;zoom=11&amp;address=Capri%2C%20Napoli%2C%20Italy" style=""></iframe>
 
 ### **The standard Lorem Ipsum passage, used since the 1500s**
 
