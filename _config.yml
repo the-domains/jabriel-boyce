@@ -1,15 +1,15 @@
-layout_spectrum: 0.8254717935342342
-typography_spectrum: 0.43088914663530886
+layout_spectrum: 0.7413562415167689
+typography_spectrum: 0.7429048561025411
 color:
-  brandStrength: 0.9517821783665568
-  lightness: 0.4769692160189152
-  saturation: 0.836735368706286
-  rhythmicContrast: 0.3903805115260184
+  brandStrength: 0.9780277826357633
+  lightness: 0.033254317939281464
+  saturation: 0.7467695490922779
+  rhythmicContrast: 0.18456269102171063
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: Jabriel Boyce
 title: from the desk of Jabriel Shore
