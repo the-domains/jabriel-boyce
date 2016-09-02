@@ -1,4 +1,3 @@
-layout_spectrum: 0.5290011
 typography_spectrum: 0.045510479249060154
 color:
   saturation: 0.12816640082746744
@@ -11,7 +10,8 @@ color:
     - '#E27A3F'
     - '#DF5A49'
   rhythmicContrast: 0.9720363251399249
-title: Jabriel Shore
+layout_spectrum: 0.5290011
+name: Jabriel Boyce
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
 collections:
@@ -26,5 +26,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-description: Storyteller
-name: Jabriel Boyce
+title: Jabriel Shore
+description: story-tailor / keeping witness / empowerment
