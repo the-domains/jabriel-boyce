@@ -1,16 +1,16 @@
-typography_spectrum: 0
-color:
-  saturation: 0.1281664008274674
-  brandStrength: 1
-  lightness: 0.9924073964357376
-  brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  rhythmicContrast: 0.9720363251399249
 layout_spectrum: 0.4785177
+typography_spectrum: 0.5794872790575027
+color:
+  saturation: 0.9158385428600013
+  brandStrength: 0.15929803694598377
+  lightness: 0.09500488545745611
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  rhythmicContrast: 0.4864571944344789
 name: Jabriel Boyce
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
