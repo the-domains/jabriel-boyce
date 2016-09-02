@@ -1,3 +1,16 @@
+layout_spectrum: 0.4785177
+typography_spectrum: 0.2394938818179071
+color:
+  saturation: 0.5814394380431622
+  brandStrength: 0.1804208706598729
+  rhythmicContrast: 0.3041125137824565
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  lightness: 0.03709384263493121
 title: Jabriel Shore
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
@@ -13,18 +26,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1281664008274674
-  brandStrength: 0.4940736442804337
-  rhythmicContrast: 0.9720363251399249
-  brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  lightness: 0.9924073964357376
-typography_spectrum: 0.1992818275466561
 description: "story-tailor \_/ \_keeping witness \_/ \_empowerment"
-layout_spectrum: 0.4785177
 name: Jabriel Boyce
