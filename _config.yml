@@ -1,16 +1,16 @@
 layout_spectrum: 0.5290011
-typography_spectrum: 0.38876917539164424
+typography_spectrum: 0.045510479249060154
 color:
-  saturation: 0
-  brandStrength: 0.4635479168500751
-  lightness: 1
+  saturation: 0.12816640082746744
+  brandStrength: 0.49407364428043365
+  lightness: 0.9924073964357376
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  rhythmicContrast: 1
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  rhythmicContrast: 0.9720363251399249
 title: Jabriel Shore
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
