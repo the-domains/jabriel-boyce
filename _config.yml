@@ -1,5 +1,6 @@
 title: Gabe B Shore
-name: Gabe B Shore
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
 collections:
   - index:
       path: /
@@ -14,17 +15,16 @@ collections:
       path: '/:title/'
 description: "story-tailor \_/ \_keep witness \_/ \_empower others"
 color:
-  saturation: 0.9158385428600013
+  saturation: 0.9158385
   brandStrength: 0.1592980369459838
-  rhythmicContrast: 0.4864571944344789
+  lightness: 0.09500489
   brandColors:
     - '#DDDCC5'
     - '#958976'
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-  lightness: 0.09500488545745611
+  rhythmicContrast: 0
 typography_spectrum: 0.5794872790575027
 layout_spectrum: 1
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
+name: Gabe B Shore
