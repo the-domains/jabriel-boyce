@@ -1,4 +1,3 @@
-layout_spectrum: 0.4785177
 typography_spectrum: 0.5794872790575027
 color:
   saturation: 0.9158385428600013
@@ -11,6 +10,7 @@ color:
     - '#1D2326'
     - '#6A6A61'
   rhythmicContrast: 0.4864571944344789
+layout_spectrum: 0.4785177
 name: Jabriel Boyce
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
@@ -27,4 +27,4 @@ collections:
       format: rss
       number: 10
 title: Gabe B Shore
-description: "story-tailor \_/ \_keeping witness \_/ \_empowerment"
+description: "story-tailor \_/ \_keeping witness \_/ \_empower others"
