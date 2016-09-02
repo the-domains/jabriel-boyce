@@ -1,3 +1,16 @@
+layout_spectrum: 0.5290011
+typography_spectrum: 0.38876917539164424
+color:
+  saturation: 0
+  brandStrength: 0.4635479168500751
+  lightness: 1
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  rhythmicContrast: 1
 title: Jabriel Shore
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
@@ -13,18 +26,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  brandStrength: 0.4635479168500751
-  lightness: 1
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  rhythmicContrast: 1
-typography_spectrum: 0.4158928107935935
 description: Storyteller
-layout_spectrum: 0.5290011
 name: Jabriel Boyce
