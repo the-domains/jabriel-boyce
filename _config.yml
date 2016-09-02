@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.9774155076593161
 color:
   saturation: 0.836322063812986
@@ -11,7 +10,8 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.9561593942344189
-title: Gabe B Shore
+layout_spectrum: 1
+name: Gabe B Shore
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
 collections:
@@ -26,5 +26,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-description: "story-tailor \_/ \_keep witness \_/ \_empower others"
-name: Gabe B Shore
+title: Gabe B Shore
+description: a story-tailor
