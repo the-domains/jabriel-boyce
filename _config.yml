@@ -1,6 +1,5 @@
 title: Jabriel Shore
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
+name: Jabriel Boyce
 collections:
   - index:
       path: /
@@ -24,7 +23,8 @@ color:
     - '#E27A3F'
     - '#DF5A49'
   lightness: 0.9924073964357376
-typography_spectrum: 0.1992818275466561
+typography_spectrum: 0
 description: "story-tailor \_/ \_keeping witness \_/ \_empowerment"
 layout_spectrum: 0.4785177
-name: Jabriel Boyce
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
