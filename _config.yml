@@ -1,17 +1,4 @@
-layout_spectrum: 0.24393833964131773
-typography_spectrum: 0.19928182754665613
-color:
-  saturation: 0.12816640082746744
-  brandStrength: 0.49407364428043365
-  lightness: 0.9924073964357376
-  brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  rhythmicContrast: 0.9720363251399249
-name: Jabriel Boyce
+title: Jabriel Shore
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
 collections:
@@ -20,11 +7,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Jabriel Shore
+color:
+  saturation: 0.1281664008274674
+  brandStrength: 0.4940736442804337
+  rhythmicContrast: 0.9720363251399249
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  lightness: 0.9924073964357376
+typography_spectrum: 0.1992818275466561
 description: "story-tailor \_/ \_keeping witness \_/ \_empowerment"
+layout_spectrum: 0.4785177
+name: Jabriel Boyce
