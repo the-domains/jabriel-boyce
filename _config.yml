@@ -1,30 +1,30 @@
-typography_spectrum: 0.9774155076593161
-color:
-  saturation: 0.836322063812986
-  brandStrength: 0.6527667024638504
-  lightness: 0.4548477332573384
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.9561593942344189
-layout_spectrum: 1
+title: Gabe B Shore
 name: Gabe B Shore
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Gabe B Shore
 description: a story-tailor
+color:
+  saturation: 0.836322063812986
+  brandStrength: 0.6527667024638504
+  rhythmicContrast: 0.9561593942344189
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.4548477332573384
+typography_spectrum: 0.9774155076593161
+layout_spectrum: 0.433405
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcbeb1fc-e39c-4c8c-bd66-2124462da707.jpg
